@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="rocks3" size="0.100000 0.056250" />
+    <ImageTarget name="rocks1" size="0.100000 0.066667" />
+    <ImageTarget name="fossilized-shell-close-up" size="0.100000 0.066333" />
+    <ImageTarget name="push" size="1.000000 0.988406" />
+    <ImageTarget name="pklogo" size="1.000000 1.000000" />
+    <ImageTarget name="stone" size="0.100000 0.075000" />
+    <ImageTarget name="siano" size="0.100000 0.066420" />
+  </Tracking>
+</QCARConfig>
